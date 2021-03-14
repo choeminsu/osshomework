@@ -2,5 +2,9 @@ new file
 first modifying
 second modifying(remote)
 
+
  branch_1 : 1st modified
 branch_1 : 2st modified
+
+branch_2 : 1st modified
+branch_2 : 2nd modified
